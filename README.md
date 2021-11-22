@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Devansh Tripathi.
+- 👀 I’m interested in Web/Software Development.
+- 🌱 I’m currently learning c#.
+- 💞️ I’m 13 years old.
